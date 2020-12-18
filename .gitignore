@@ -1,2 +1,4 @@
 **/.frama-c
 *.pp.c
+**/*.c.av
+.vscode

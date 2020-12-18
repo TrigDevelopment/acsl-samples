@@ -1,5 +1,6 @@
 /*@ ensures \result == 4;
 */
-int * f() {
+int *f()
+{
   return 4;
 }
